@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "아무거나 블로그"
+title                    : "안농하세요"
 title_separator          : "-"
-subtitle                 : "#컴알 #INU" # site tagline that appears below site title in masthead
-name                     : "DongHoon"
+subtitle                 : "" # site tagline that appears below site title in masthead
+name                     : "JungHeum"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "hxxn85/hxxn85.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "realbb/realbb.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -93,18 +93,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "DongHoon"
+  name             : "JungHeum"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Part-time Instructor"
-  location         : "Room No. 203"
-  email            : "dhkim_85@inu.ac.kr"
+  bio              : "코딩 잘하고프다"
+  location         : "Seoul"
+  email            : "realbb526@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://hxxn85.team"
+      # url: ""
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/hxxn85"
+      url: "https://github.com/realbb"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
