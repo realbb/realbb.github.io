@@ -29,6 +29,8 @@ $$
 4&5&6\\
 \end{array}\right]
 $$
+
+
 만일 두 행렬이 n x m, f x g 의 행과 열을 가지고, m=f 일 경우, 행렬의 곱셈이 가능해진다. 계산 과정은 아래와 같다.
 $$
 \left[\begin{array}{rrr} 
