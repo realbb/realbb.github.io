@@ -44,9 +44,7 @@ title: 그리디 알고리즘
 
 ~~내가 한 번역이 완벽한지는 모르겠다 ㅎㅎ;~~
 
-출처 : [](https://www.hackerrank.com/challenges/luck-balance/problem)
-
-
+출처 : [https://www.hackerrank.com/challenges/luck-balance/problem](https://www.hackerrank.com/challenges/luck-balance/problem)
 
 
 
@@ -252,4 +250,4 @@ public class Main1 {
 
 
 
-출처 : [](https://www.hackerrank.com/challenges/luck-balance/problem)
+출처 : [https://www.hackerrank.com/challenges/luck-balance/problem](https://www.hackerrank.com/challenges/luck-balance/problem)
